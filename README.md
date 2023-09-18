@@ -27,6 +27,7 @@ https://github.com/miguelgrinberg/flasky.
 
 #Activity 4 
 
+![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/4a1b3601-7bdf-42b4-ab2f-3cf717ce5981)
 ![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/7f10cc96-5326-49bc-8041-6b567d4ee1bf)
 ![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/18ab891b-359c-4e7f-b51f-dfb9fbc50a71)
 ![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/f75f7512-64eb-4e83-9495-f4602e43b944)
