@@ -10,3 +10,8 @@ Activity 1
 Activity 2
 
 ![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/685aff7a-84f8-4f35-a81e-b56ee00f86f7)
+
+
+Activity 3
+![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/ee25a381-5468-4d21-9814-78463d206a15)
+
