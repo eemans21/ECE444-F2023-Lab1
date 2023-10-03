@@ -17,4 +17,5 @@ Activity 3
 
 
 Activity 4
-![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/9e2d577a-71df-4b43-8ab6-a7f0cbf9543c)
+![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/858c76f7-d5bb-4dfd-b8b8-3c077182accf)
+![image](https://github.com/eemans21/ECE444-F2023-Lab1/assets/74782082/1126ee9b-2c97-4fed-a5eb-f1a65bac3f19)
